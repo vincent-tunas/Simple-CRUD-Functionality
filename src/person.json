@@ -1,0 +1,24 @@
+{
+  "person": [
+    {
+      "name": "vincenntius patrick",
+      "email": "vincenntiuspatrick@gmail.com",
+      "id": "83ca"
+    },
+    {
+      "name": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "id": "1239"
+    },
+    {
+      "name": "Riko Chen",
+      "email": "RikoChen@gmail.com",
+      "id": "e816"
+    },
+    {
+      "id": "2a57",
+      "name": "vincent",
+      "email": "vincentkoh@gmail.com"
+    }
+  ]
+}
